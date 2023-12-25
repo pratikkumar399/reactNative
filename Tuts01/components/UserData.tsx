@@ -33,7 +33,7 @@ const UserData = () => {
   }, [userIndex]);
 
   const handleNext = () => {
-    setUserIndex(prevIndex => prevIndex + 1);
+    setUserIndex(prevIndex => Math.min(prevIndex + 1, 80));
   };
 
   const handlePrevious = () => {
