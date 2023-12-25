@@ -77,5 +77,5 @@ You've successfully run and modified your React Native App. :partying_face:
 
 ## App Screenshot:
 
-![Alt text](image.png)
+![Alt text](../Tuts01/assets/readmeimage.png)
 
